@@ -3,36 +3,13 @@ To-Do List Application
 This is a simple to-do list application that allows you to manage your tasks and stay organized. Whether you're a developer looking to contribute to this project or a user interested in using the application, this README will provide you with the necessary information.
 
 <h2>Features</h2>
-Add, edit, and delete tasks.
-Mark tasks as completed.
-Organize tasks into categories or lists.
-Filter and sort tasks based on various criteria.
-Set due dates and reminders.
-User-friendly interface with a responsive design.
-Getting Started
-Follow the instructions below to get the to-do list application up and running on your local machine.
+<ul>
+  <li>Add, edit, and delete tasks.</li>
+  <li>Mark tasks as completed.</li>
+  <li>Organize tasks into categories or lists.</li>
+  <li>User-friendly interface with a responsive design.</li>
+</ul>.
 
-Prerequisites
-Node.js and npm (Node Package Manager) installed on your computer.
-A code editor for development (e.g., Visual Studio Code, Sublime Text).
-Installation
-Clone the repository to your local machine:
-bash
-Copy code
-git clone https://github.com/yourusername/todo-list.git
-Navigate to the project directory:
-bash
-Copy code
-cd todo-list
-Install the required dependencies:
-bash
-Copy code
-npm install
-Start the development server:
-bash
-Copy code
-npm start
-The application will be accessible in your web browser at http://localhost:3000.
 
 Usage
 Create a new task by clicking the "Add Task" button.
