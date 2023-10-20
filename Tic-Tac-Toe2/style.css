@@ -1,0 +1,72 @@
+#title{
+    text-align: center;
+    font-size: 50px;
+}
+
+#central-part{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#player-btn{
+    height:60px;
+    width: 100px;
+    font-size: 25px;
+}
+
+#comp-btn1{
+    height:60px;
+    width: 160px;
+    font-size: 25px;
+}
+
+#comp-btn2{
+    height:60px;
+    width: 160px;
+    font-size: 25px;
+}
+
+#board{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.board-row{
+    display: flex;
+}
+
+.board-col{
+    height:100px;
+    width:100px;
+    font-size: 50px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+}
+
+#info{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+
+#undo-div{
+    text-align: center;
+    padding:25px;
+}
+
+#undo{
+    height:60px;
+    width: 100px;
+    font-size: 25px;
+    background-color: black;
+    color:white;
+}
