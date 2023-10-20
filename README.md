@@ -2,15 +2,7 @@
 To-Do List Application
 This is a simple to-do list application that allows you to manage your tasks and stay organized. Whether you're a developer looking to contribute to this project or a user interested in using the application, this README will provide you with the necessary information.
 
-Table of Contents
-Features
-Getting Started
-Prerequisites
-Installation
-Usage
-Contributing
-License
-Features
+<h2>Features</h2>
 Add, edit, and delete tasks.
 Mark tasks as completed.
 Organize tasks into categories or lists.
